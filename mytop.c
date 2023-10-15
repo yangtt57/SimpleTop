@@ -442,7 +442,6 @@ int main()
         total_mem = 0;
         erase();
         attron(A_STANDOUT);
-        printw("21312872-yangtengteng\n");
         attroff(A_STANDOUT);
         showtime();
         showtask();
